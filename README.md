@@ -1,4 +1,4 @@
-# erp-group-project
+# task-tracker
 
 ## Project setup
 ```
